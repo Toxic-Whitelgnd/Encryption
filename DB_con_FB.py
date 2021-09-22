@@ -6,14 +6,16 @@ import random,emoji
 
 
 firebaseConfig = {
-  'apiKey': "AIzaSyCuvYXMKrZVJh0UjI5xZjgXL6zJnzt_9mM",
-  'authDomain': "encrypyfb.firebaseapp.com",
-  'projectId': "encrypyfb",
-  'storageBucket': "encrypyfb.appspot.com",
-  'messagingSenderId': "245378921082",
-  'appId': "1:245378921082:web:147146504bf3f6147141c3",
-  'measurementId': "G-RYC643NLVZ",
-    'databaseURL':"https://encrypyfb-default-rtdb.firebaseio.com/"
+  'apiKey': "",
+  'authDomain': "",
+  'projectId': "",
+  'storageBucket': "",
+  'messagingSenderId': "",
+  'appId': "",
+  'measurementId': "",
+    'databaseURL':""
+  #at the empty string get the data from u r firebase
+  #i removed due to privacy
 }
 firebase = pyrebase.initialize_app(firebaseConfig)
 
