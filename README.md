@@ -6,3 +6,4 @@
 #for this firebase is used
 #u can download the Encryptionv2_app it is working fine
 #or u  can download the encryption_all_py.zip file that contain all the files make sure run it in proper interpreter
+#to see the output of my program check the outputs folder
