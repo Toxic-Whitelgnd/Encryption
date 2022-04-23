@@ -10,3 +10,6 @@
 
 
 #download EncryptionV2_app.zip to see the results
+
+if u want to check the outputs
+visit this website: https://toxic-whitelgnd.github.io/EncrypDecrypWeb/
